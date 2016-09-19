@@ -1,5 +1,5 @@
-from loader_yaml import RawData2Flat, ReadData
+from loader_yaml import ReadData
 
 datadict = ReadData()
 
-datadict.readRawData()
+datadict.readRawData_zhao()
